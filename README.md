@@ -19,5 +19,5 @@ solana-keygen grind --starts-with mnt:1
 spl-token create-token --program-id TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb \
   --enable-metadata mnt7Sy6d2UDEiUGVsme9Jbm7pswz1ykptRq5GvGk7eD.json
 
-spl-token initialize-metadata mnt7Sy6d2UDEiUGVsme9Jbm7pswz1ykptRq5GvGk7eD 'USDA' 'USDA' https://raw.githubusercontent.com/t7y/developer-bootcamp-2024/refs/heads/main/project-11-programmable-money/mint_setup/metadata.json
+spl-token initialize-metadata mnt7Sy6d2UDEiUGVsme9Jbm7pswz1ykptRq5GvGk7eD 'USDA' 'USDA' https://raw.githubusercontent.com/t7y/solana_mint_setup/f1c79d701cdf7c00ec5b920c08a0b4f5e1c7880b/metadata.json
 ```

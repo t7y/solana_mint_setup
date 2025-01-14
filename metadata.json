@@ -1,6 +1,6 @@
 {
-    "name": "USDA",
-    "symbol": "USDA",
-    "description": "Stablecoin by Alchemy",
-    "image": "https://raw.githubusercontent.com/t7y/developer-bootcamp-2024/refs/heads/main/project-11-programmable-money/mint_setup/usda.png"
-  }
+  "name": "USDA",
+  "symbol": "USDA",
+  "description": "Stablecoin by Alchemy",
+  "image": "https://raw.githubusercontent.com/t7y/solana_mint_setup/f1c79d701cdf7c00ec5b920c08a0b4f5e1c7880b/usda.png"
+}
